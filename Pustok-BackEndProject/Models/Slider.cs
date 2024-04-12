@@ -2,7 +2,7 @@
 
 namespace Pustok_BackEndProject.Models;
 
-public class Slider : BaseEntity
+public class Slider : BaseModel
 {
     public string Title { get; set; } = null!;
     public string Description { get; set; } = null!;

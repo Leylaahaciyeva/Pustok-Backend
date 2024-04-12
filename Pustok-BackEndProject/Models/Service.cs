@@ -2,7 +2,7 @@
 
 namespace Pustok_BackEndProject.Models;
 
-public partial class Service : BaseEntity
+public partial class Service : BaseModel
 {
     public string Title { get; set; } = null!;
     public string Description { get; set; } = null!;
