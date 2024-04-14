@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pustok_BackEndProject.Areas.Admin.ViewModels;
 using Pustok_BackEndProject.Contexts;
@@ -7,6 +8,8 @@ using Pustok_BackEndProject.Models;
 
 namespace Pustok_BackEndProject.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin")]
+
 public class SliderController : Controller
 {
     private readonly AppDbContext _context;

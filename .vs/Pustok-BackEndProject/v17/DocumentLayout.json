@@ -7,88 +7,152 @@
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\viewmodels\\brandviewmodels\\brandcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\viewmodels\\brandviewmodels\\brandcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\viewmodels\\productviewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\viewmodels\\productviewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -115,10 +179,6 @@
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,22 +203,6 @@
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -171,10 +215,6 @@
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\service\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\service\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -185,10 +225,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\migrations\\20240405123130_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\migrations\\20240405123130_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -205,10 +241,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -233,6 +265,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\migrations\\20240410123256_addedbasketitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\migrations\\20240410123256_addedbasketitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|c:\\users\\dell\\source\\repos\\pustok-backendproject\\pustok-backendproject\\migrations\\20240412230148_addedbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B122801D-6D84-44E6-A69F-35CA186DAD78}|Pustok-BackEndProject\\Pustok-BackEndProject.csproj|solutionrelative:pustok-backendproject\\migrations\\20240412230148_addedbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -242,7 +278,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,75 +286,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-05T13:58:27.832Z"
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:38:55.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LayoutService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\LayoutService.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Services\\LayoutService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\LayoutService.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Services\\LayoutService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwEcAAAAAAAAA",
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T12:22:14.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAvwIYAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-05T14:34:35.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\BasketItem.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\BasketItem.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\BasketItem.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Models\\BasketItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:21.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Product.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Models\\Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:02:26.844Z"
+              "WhenOpened": "2024-04-06T10:08:50.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Category.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T10:55:02.155Z"
+              "WhenOpened": "2024-04-06T07:15:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Program.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Program.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:29:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAcwF4BAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T13:00:39.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -328,7 +357,7 @@
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAMkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-05T14:31:19.596Z",
               "EditorCaption": ""
@@ -336,377 +365,281 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AQIAAOcAAAAAAAAAAAAswO0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T10:34:09.302Z"
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:13:25.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Controllers\\ShopController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:22:34.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Program.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Program.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:29:26.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T11:58:39.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:22:34.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "20240410123256_addedBasketItems.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:32:56.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-05T12:31:13.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAPEAAAAAAAAAAAAwwFwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:38:55.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA0wAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:11:52.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:51:06.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAMwE8AAAAgAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:16:41.401Z"
+              "WhenOpened": "2024-04-06T11:16:41.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "20240408100459_editProduct.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "DocumentIndex": 8,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:05:00.28Z"
+              "WhenOpened": "2024-04-12T23:11:58.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAjwEEAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T12:56:41.65Z"
+              "WhenOpened": "2024-04-05T13:58:27.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAnAAAA",
+              "DocumentIndex": 10,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T12:53:41.792Z"
+              "WhenOpened": "2024-04-13T13:00:24.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\EmailService.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Services\\EmailService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBkAAAAKAAAA",
+              "DocumentIndex": 11,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\BasketItem.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Models\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T11:13:05.107Z"
+              "WhenOpened": "2024-04-10T12:29:21.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAQwJAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:22:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Pustok-BackEndProject\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAQwGEAAAAAAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwHsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:32:37.516Z"
+              "WhenOpened": "2024-04-07T09:32:37.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:45:36.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAAAKYBAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T09:36:47.212Z"
+              "WhenOpened": "2024-04-08T10:34:09.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\LayoutService.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Services\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\LayoutService.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Services\\LayoutService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:53:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\appsettings.json",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\appsettings.json",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\appsettings.json",
               "RelativeToolTip": "Pustok-BackEndProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-05T12:28:59.742Z"
+              "WhenOpened": "2024-04-05T12:28:59.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T11:58:39.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAvwJgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T14:34:35.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Product.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:02:26.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:11:52.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABeAAAA",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T09:33:08.734Z"
+              "WhenOpened": "2024-04-06T11:29:40.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Enums\\Roles.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Enums\\Roles.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Enums\\Roles.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Enums\\Roles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T10:34:51.736Z"
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T23:15:53.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "20240407103356_addedIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T10:33:57.318Z"
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T23:16:26.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "20240407092102_addedIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwB0AAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:21:02.665Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T23:15:24.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\AppUser.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:16:38.738Z"
+              "WhenOpened": "2024-04-06T11:23:53.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwD0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T11:53:42.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "20240406123049_addedCategoriesAndProducts.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "BrandCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\BrandViewModels\\BrandCreateVM.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\BrandViewModels\\BrandCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\BrandViewModels\\BrandCreateVM.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\BrandViewModels\\BrandCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:30:49.531Z"
+              "WhenOpened": "2024-04-12T23:14:01.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20240406122532_addedProductImage2.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:25:32.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T07:23:11.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAGAAAA",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T07:16:44.458Z"
+              "WhenOpened": "2024-04-06T11:20:08.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAAAqwCwAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T11:41:33.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:36:28.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -718,19 +651,306 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T11:29:40.881Z"
+              "WhenOpened": "2024-04-06T11:53:42.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:06:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:51:06.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T12:56:41.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240412230148_addedBrands.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240412230148_addedBrands.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240412230148_addedBrands.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240412230148_addedBrands.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240412230148_addedBrands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:01:48.772Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Category.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:55:02.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:22:34.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240410123256_addedBasketItems.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240410123256_addedBasketItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:32:56.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T12:31:13.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240408100459_editProduct.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240408100459_editProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:05:00.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:53:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Services\\EmailService.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:13:05.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:45:36.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T09:36:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T09:33:08.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Enums\\Roles.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:34:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240407103356_addedIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240407103356_addedIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:33:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240407092102_addedIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240407092102_addedIdentity.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwB0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:21:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\AppUser.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:16:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240406123049_addedCategoriesAndProducts.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240406123049_addedCategoriesAndProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:30:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240406122532_addedProductImage2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Migrations\\20240406122532_addedProductImage2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:25:32.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T07:23:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T07:16:44.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCwAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T11:41:33.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
+              "RelativeToolTip": "Pustok-BackEndProject\\Models\\Common\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:36:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Service\\Index.cshtml",
@@ -742,31 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T11:20:08.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CategoryCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:23:53.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 51,
               "Title": "20240406110256_addedCategoriesAndProducts.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240406110256_addedCategoriesAndProducts.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240406110256_addedCategoriesAndProducts.cs",
@@ -777,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 50,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Service\\Create.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Service\\Create.cshtml",
@@ -789,19 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAgwFQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T10:08:50.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 52,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -813,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 54,
               "Title": "ServiceCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
@@ -825,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 53,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Service\\Update.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Service\\Update.cshtml",
@@ -837,7 +1021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "20240405123130_initDatabase.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240405123130_initDatabase.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240405123130_initDatabase.cs",
@@ -849,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 56,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
@@ -861,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 57,
               "Title": "SliderCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\SliderViewModels\\SliderCreateVM.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\ViewModels\\SliderViewModels\\SliderCreateVM.cs",
@@ -873,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 58,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Extensions\\FileValidator.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Extensions\\FileValidator.cs",
@@ -885,19 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAmwFgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T07:15:15.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 59,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -909,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 60,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -921,19 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Pustok-BackEndProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T13:13:25.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 61,
               "Title": "20240405130958_addedSliderAndServices.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Pustok-BackEndProject\\Pustok-BackEndProject\\Migrations\\20240405130958_addedSliderAndServices.cs",
               "RelativeDocumentMoniker": "Pustok-BackEndProject\\Migrations\\20240405130958_addedSliderAndServices.cs",

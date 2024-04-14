@@ -1,12 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NuGet.Protocol;
 using Pustok_BackEndProject.Areas.Admin.ViewModels;
 using Pustok_BackEndProject.Contexts;
 using Pustok_BackEndProject.Models;
 
 namespace Pustok_BackEndProject.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin")]
+
 public class ServiceController : Controller
 {
     private readonly AppDbContext _context;

@@ -3,6 +3,7 @@
 @inject ILayoutService _layoutService
 @{
     var basketItems = await _layoutService.GetBasketItems();
+    var categories = await _layoutService.GetCategories();
 
     int count = 0;
     decimal totalPrice = 0;
@@ -11,7 +12,7 @@
     {
         totalPrice += item.Count * (item.Product.Price - (item.Product.Price * item.Product.Discount / 100));
         count += item.Count;
-    } 
+    }
 }
 
 <!DOCTYPE html>
@@ -55,91 +56,16 @@
                             <div class="main-navigation flex-lg-right">
                                 <ul class="main-menu menu-right ">
                                     <li class="menu-item has-children">
-                                        <a href="javascript:void(0)">
-                                            Home <i class="fas fa-chevron-down dropdown-arrow"></i>
+                                        <a asp-action="Index" asp-controller="Home">
+                                            Home
                                         </a>
-                                        <ul class="sub-menu">
-                                            <li> <a href="index.html">Home One</a></li>
-                                            <li> <a href="index-2.html">Home Two</a></li>
-                                            <li> <a href="index-3.html">Home Three</a></li>
-                                            <li> <a href="index-4.html">Home Four</a></li>
-                                            <li> <a href="index-5.html">Home Five</a></li>
-                                        </ul>
+                                    
                                     </li>
                                     <!-- Shop -->
                                     <li class="menu-item has-children mega-menu">
-                                        <a href="javascript:void(0)">
-                                            shop <i class="fas fa-chevron-down dropdown-arrow"></i>
+                                        <a asp-action="Index" asp-controller="Shop">
+                                            shop 
                                         </a>
-                                        <ul class="sub-menu four-column">
-                                            <li class="cus-col-25">
-                                                <h3 class="menu-title"><a href="javascript:void(0)">Shop Grid </a></h3>
-                                                <ul class="mega-single-block">
-                                                    <li><a href="shop-grid.html">Fullwidth</a></li>
-                                                    <li><a href="shop-grid-left-sidebar.html">left Sidebar</a></li>
-                                                    <li><a href="shop-grid-right-sidebar.html">Right Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="cus-col-25">
-                                                <h3 class="menu-title"> <a href="javascript:void(0)">Shop List</a></h3>
-                                                <ul class="mega-single-block">
-                                                    <li><a href="shop-list.html">Fullwidth</a></li>
-                                                    <li><a href="shop-list-left-sidebar.html">left Sidebar</a></li>
-                                                    <li><a href="shop-list-right-sidebar.html">Right Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="cus-col-25">
-                                                <h3 class="menu-title">
-                                                    <a href="javascript:void(0)">
-                                                        Product Details
-                                                        1
-                                                    </a>
-                                                </h3>
-                                                <ul class="mega-single-block">
-                                                    <li><a href="product-details.html">Product Details Page</a></li>
-                                                    <li>
-                                                        <a href="product-details-affiliate.html">
-                                                            Product Details
-                                                            Affiliate
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="product-details-group.html">Product Details Group</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="product-details-variable.html">
-                                                            Product Details
-                                                            Variables
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="cus-col-25">
-                                                <h3 class="menu-title">
-                                                    <a href="javascript:void(0)">
-                                                        Product Details
-                                                        2
-                                                    </a>
-                                                </h3>
-                                                <ul class="mega-single-block">
-                                                    <li>
-                                                        <a href="product-details-left-thumbnail.html">left Thumbnail</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="product-details-right-thumbnail.html">
-                                                            Right
-                                                            Thumbnail
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="product-details-left-gallery.html">Left Gallery</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="product-details-right-gallery.html">Right Gallery</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
                                     </li>
                                     <!-- Pages -->
                                     <li class="menu-item has-children">
@@ -215,125 +141,21 @@
                                         categories
                                     </a>
                                     <ul class="category-menu">
-                                        <li class="cat-item has-children">
-                                            <a href="#">Arts & Photography</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Bags & Cases</a></li>
-                                                <li><a href="#">Binoculars & Scopes</a></li>
-                                                <li><a href="#">Digital Cameras</a></li>
-                                                <li><a href="#">Film Photography</a></li>
-                                                <li><a href="#">Lighting & Studio</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children mega-menu">
-                                            <a href="#">Biographies</a>
-                                            <ul class="sub-menu">
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children">
-                                            <a href="#">Business & Money</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children">
-                                            <a href="#">Calendars</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children">
-                                            <a href="#">Children's Books</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children">
-                                            <a href="#">Comics</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item"><a href="#">Perfomance Filters</a></li>
-                                        <li class="cat-item has-children">
-                                            <a href="#">Cookbooks</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item "><a href="#">Accessories</a></li>
-                                        <li class="cat-item "><a href="#">Education</a></li>
-                                        <li class="cat-item hidden-menu-item"><a href="#">Indoor Living</a></li>
-                                        <li class="cat-item">
-                                            <a href="#" class="js-expand-hidden-menu">
-                                                More
-                                                Categories
-                                            </a>
-                                        </li>
+                                        @foreach (var category in categories)
+                                        {
+
+                                            <li class="cat-item "><a asp-controller="Shop" asp-action="Index" asp-route-categoryId="@category.Id">@category.Name</a></li>
+                                        }
+
                                     </ul>
                                 </div>
                             </nav>
                         </div>
                         <div class="col-lg-5">
-                            <div class="header-search-block">
-                                <input type="text" placeholder="Search entire store here">
-                                <button>Search</button>
-                            </div>
+                            <form method="post" asp-action="Search" asp-controller="Shop" class="header-search-block">
+                                <input type="text" name="search" placeholder="Search entire store here">
+                                <button type="submit">Search</button>
+                            </form>
                         </div>
                         <div class="col-lg-4">
                             <div class="main-navigation flex-lg-right">
@@ -343,6 +165,9 @@
                                             if (User.Identity.IsAuthenticated)
                                             {
                                                 <a class="font-weight-bold"> @User.FindFirstValue(ClaimTypes.Name)</a>
+                                                <br />
+                                                <a class="font-weight-bold" asp-action="Logout" asp-controller="Account"> Logout</a>
+                                                
                                             }
                                             else
                                             {
@@ -380,8 +205,8 @@
                                                                     @item.Product.Name
                                                                 </a>
                                                             </h3>
-                                                            <p class="price"><span class="qty">@item.Count ×</span> £@(item.Product.Price-(item.Product.Price*item.Product.Discount/100))</p>
-                                                            <button class="cross-btn"><i class="fas fa-times"></i></button>
+                                                            <p class="price"><span class="qty">@item.Count ×</span> £@(item.Product.Price - (item.Product.Price * item.Product.Discount / 100))</p>
+                                                            <a asp-action="RemoveToBasket" asp-controller="Shop" asp-route-id="@item.Product.Id" class="cross-btn"><i class="fas fa-times"></i></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -389,7 +214,7 @@
                                             }
                                             <div class=" single-cart-block ">
                                                 <div class="btn-block">
-                                                    <a href="cart.html" class="btn">
+                                                    <a asp-action="Index" asp-controller="Basket" class="btn">
                                                         View Cart <i class="fas fa-chevron-right"></i>
                                                     </a>
                                                     <a href="checkout.html" class="btn btn--primary">
@@ -574,14 +399,8 @@
                         <nav class="off-canvas-nav">
                             <ul class="mobile-menu main-mobile-menu">
                                 <li class="menu-item-has-children">
-                                    <a href="#">Home</a>
-                                    <ul class="sub-menu">
-                                        <li> <a href="index.html">Home One</a></li>
-                                        <li> <a href="index-2.html">Home Two</a></li>
-                                        <li> <a href="index-3.html">Home Three</a></li>
-                                        <li> <a href="index-4.html">Home Four</a></li>
-                                        <li> <a href="index-5.html">Home Five</a></li>
-                                    </ul>
+                                    <a asp-action="Index" asp-controller="Home">Home</a>
+                              
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Blog</a>
@@ -615,57 +434,7 @@
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">Shop</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Shop Grid</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="shop-grid.html">Fullwidth</a></li>
-                                                <li><a href="shop-grid-left-sidebar.html">left Sidebar</a></li>
-                                                <li><a href="shop-grid-right-sidebar.html">Right Sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Shop List</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="shop-list.html">Fullwidth</a></li>
-                                                <li><a href="shop-list-left-sidebar.html">left Sidebar</a></li>
-                                                <li><a href="shop-list-right-sidebar.html">Right Sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Product Details 1</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="product-details.html">Product Details Page</a></li>
-                                                <li>
-                                                    <a href="product-details-affiliate.html">
-                                                        Product Details
-                                                        Affiliate
-                                                    </a>
-                                                </li>
-                                                <li><a href="product-details-group.html">Product Details Group</a></li>
-                                                <li>
-                                                    <a href="product-details-variable.html">
-                                                        Product Details
-                                                        Variables
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Product Details 2</a>
-                                            <ul class="sub-menu">
-                                                <li>
-                                                    <a href="product-details-left-thumbnail.html">left Thumbnail</a>
-                                                </li>
-                                                <li>
-                                                    <a href="product-details-right-thumbnail.html">Right Thumbnail</a>
-                                                </li>
-                                                <li><a href="product-details-left-gallery.html">Left Gallery</a></li>
-                                                <li><a href="product-details-right-gallery.html">Right Gallery</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                    <a asp-controller="Shop" asp-action="Index">Shop</a>
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Pages</a>

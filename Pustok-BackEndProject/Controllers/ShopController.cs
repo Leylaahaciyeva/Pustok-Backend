@@ -19,16 +19,30 @@ public class ShopController : Controller
         _userManager = userManager;
     }
 
-    public async Task<IActionResult> Index()
+    public async Task<IActionResult> Index(int? categoryId)
     {
-        var products = await _context.Products.Include(x => x.Category).Include(x => x.ProductImages).ToListAsync();
+
+        var query = _context.Products.Include(x => x.Category).Include(x => x.ProductImages).AsQueryable();
+        if (categoryId is not null)
+            query = query.Where(x => x.CategoryId == categoryId);
+
+        var products = await query.ToListAsync();
+
         return View(products);
+    }
+
+
+
+    public async Task<IActionResult> Search(string search)
+    {
+        var products = await _context.Products.Where(x => x.Name.Trim().ToLower().Contains(search.ToLower().Trim())).Include(x=>x.Category).Include(x=>x.ProductImages).ToListAsync();
+        return View("Index",products);
     }
 
 
     public async Task<IActionResult> Detail(int id)
     {
-        var product = await _context.Products.Include(x => x.Category).Include(x => x.ProductImages).FirstOrDefaultAsync(x => x.Id == id);
+        var product = await _context.Products.Include(x => x.Category).Include(x => x.ProductImages).Include(x => x.Brand).FirstOrDefaultAsync(x => x.Id == id);
 
         if (product is null)
             return NotFound();
@@ -37,7 +51,7 @@ public class ShopController : Controller
     }
 
 
-    public async Task<IActionResult> AddToBasket(int id,string? returnUrl)
+    public async Task<IActionResult> AddToBasket(int id)
     {
         var product = await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
 
@@ -57,7 +71,7 @@ public class ShopController : Controller
             var basket = await _context.BasketItems.Where(x => x.AppUserId == userId).ToListAsync();
 
 
-            var existBasket=basket.FirstOrDefault(x=>x.ProductId== id);
+            var existBasket = basket.FirstOrDefault(x => x.ProductId == id);
 
             if (existBasket is not null)
             {
@@ -77,8 +91,6 @@ public class ShopController : Controller
 
             await _context.SaveChangesAsync();
 
-            if (returnUrl is not null)
-                return Redirect(returnUrl);
 
             return RedirectToAction("Index");
         }
@@ -100,7 +112,7 @@ public class ShopController : Controller
         }
 
 
-        var json=JsonConvert.SerializeObject(basketItems);
+        var json = JsonConvert.SerializeObject(basketItems);
 
         Response.Cookies.Append("basket", json);
 
@@ -110,9 +122,52 @@ public class ShopController : Controller
 
 
 
+    public async Task<IActionResult> RemoveToBasket(int id)
+    {
+        if (User.Identity.IsAuthenticated)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+
+            var basketItem = await _context.BasketItems.FirstOrDefaultAsync(x => x.ProductId == id && x.AppUserId == userId);
+
+            if (basketItem is null)
+                return NotFound();
+
+            _context.BasketItems.Remove(basketItem);
+            await _context.SaveChangesAsync();
+
+
+            return RedirectToAction("Index");
+
+        }
+
+        var basketItems = GetBasket();
+
+
+        var existItem = basketItems.FirstOrDefault(x => x.ProductId == id);
+
+        if (existItem is null)
+            return NotFound();
+
+        basketItems.Remove(existItem);
+
+
+        var json = JsonConvert.SerializeObject(basketItems);
+
+        Response.Cookies.Append("basket", json);
+
+
+        return RedirectToAction("Index");
+    }
+
+
+
+
+
     private List<BasketItem> GetBasket()
     {
-        List<BasketItem> basketItems=new();
+        List<BasketItem> basketItems = new();
         if (Request.Cookies["basket"] != null)
         {
             basketItems = JsonConvert.DeserializeObject<List<BasketItem>>(Request.Cookies["basket"]);

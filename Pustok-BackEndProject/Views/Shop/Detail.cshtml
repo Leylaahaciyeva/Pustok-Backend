@@ -62,22 +62,28 @@
                     <p class="tag-block">Tags: <a href="#">@Model.Tags</a></p>
                     <h3 class="product-title">@Model.Name</h3>
                     <ul class="list-unstyled">
-                        @* <li>Brands: <a href="#" class="list-value font-weight-bold"> Canon</a></li> *@
-                        @* <li>Product Code: <span class="list-value"> @Model.</span></li> *@
+                        <li>Brand: <a href="#" class="list-value font-weight-bold"> @Model.Brand.Name</a></li>
+                        <li>Product Code: <span class="list-value"> @Model.ProductCode</span></li>
                         <li>Reward Points: <span class="list-value"> @Model.RewardPoints</span></li>
                         <li>Availability: <span class="list-value"> In Stock</span></li>
                     </ul>
                     <div class="price-block">
-                        <span class="price-new">£@(Model.Price-Model.Price*Model.Discount/100)</span>
+                        <span class="price-new">£@(Model.Price - Model.Price * Model.Discount / 100)</span>
                         <del class="price-old">£@Model.Price</del>
                     </div>
                     <div class="rating-widget">
                         <div class="rating-block">
-                            <span class="fas fa-star star_on"></span>
-                            <span class="fas fa-star star_on"></span>
-                            <span class="fas fa-star star_on"></span>
-                            <span class="fas fa-star star_on"></span>
-                            <span class="fas fa-star "></span>
+                            @for (int i = 0; i < Math.Ceiling(Model.Rating); i++)
+                            {
+                                <span class="fas fa-star star_on"></span>
+
+                            }
+                            @for (int i = 0; i < (5 - Math.Ceiling(Model.Rating)); i++)
+                            {
+                                <span class="fas fa-star"></span>
+
+                            }
+
                         </div>
                         <div class="review-widget">
                             <a href="#">(1 Reviews)</a> <span>|</span>
@@ -87,7 +93,7 @@
                     <article class="product-details-article">
                         <h4 class="sr-only">Product Summery</h4>
                         <p>
-                           @Model.Description.Substring(0,10)
+                            @Model.Description.Substring(0, 10)
                         </p>
                     </article>
                     <div class="add-to-cart-row">
@@ -96,7 +102,7 @@
                             <input type="number" class="form-control text-center" value="1">
                         </div>
                         <div class="add-cart-btn">
-                            <a href="#" class="btn btn-outlined--primary">
+                            <a asp-action="AddToBasket" asp-route-id="@Model.Id" class="btn btn-outlined--primary">
                                 <span class="plus-icon">+</span>Add to
                                 Cart
                             </a>
@@ -129,7 +135,7 @@
                     <article class="review-article">
                         <h1 class="sr-only">Tab Article</h1>
                         <p>
-                          @Model.Description
+                            @Model.Description
                         </p>
                     </article>
                 </div>
@@ -142,11 +148,11 @@
                             </div>
                             <div class="text">
                                 <div class="rating-block mb--15">
-                                    <span class="ion-android-star-outline star_on"></span>
-                                    <span class="ion-android-star-outline star_on"></span>
-                                    <span class="ion-android-star-outline star_on"></span>
-                                    <span class="ion-android-star-outline"></span>
-                                    <span class="ion-android-star-outline"></span>
+                                    @for (int i = 0; i < Model.Rating; i++)
+                                    {
+                                        <span class="ion-android-star-outline star_on"></span>
+
+                                    }
                                 </div>
                                 <h6 class="author">
                                     ADMIN – <span class="font-weight-400">March 23, 2015</span>

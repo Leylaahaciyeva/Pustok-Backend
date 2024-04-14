@@ -19,7 +19,11 @@ public class LayoutService : ILayoutService
         _context = context;
         _userManager = userManager;
     }
-
+    public async Task<List<Category>> GetCategories()
+    {
+        var categories = await _context.Categories.Include(x => x.Products).Where(x => x.Products.Count > 0).ToListAsync();
+        return categories;
+    }
     public async Task<List<BasketItem>> GetBasketItems()
     {
         List<BasketItem> basketItems = new();
@@ -40,7 +44,7 @@ public class LayoutService : ILayoutService
         }
         else
         {
-            basketItems =await GetBasket();
+            basketItems = await GetBasket();
         }
 
 
@@ -72,9 +76,15 @@ public class LayoutService : ILayoutService
 
         return basketItems;
     }
+
+
+
+
 }
 
 public interface ILayoutService
 {
     Task<List<BasketItem>> GetBasketItems();
+    Task<List<Category>> GetCategories();
+
 }

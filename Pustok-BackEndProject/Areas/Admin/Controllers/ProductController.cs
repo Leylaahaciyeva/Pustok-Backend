@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using Pustok_BackEndProject.Areas.Admin.ViewModels;
@@ -8,6 +9,8 @@ using Pustok_BackEndProject.Models;
 
 namespace Pustok_BackEndProject.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin")]
+
 public class ProductController : Controller
 {
     private readonly AppDbContext _context;
@@ -29,6 +32,8 @@ public class ProductController : Controller
     public async Task<IActionResult> Create()
     {
         var categories = await _context.Categories.ToListAsync();
+        var brands = await _context.Brands.ToListAsync();
+        ViewBag.Brands = brands;
         ViewBag.Categories = categories;
         return View();
     }
@@ -38,6 +43,8 @@ public class ProductController : Controller
     {
         var categories = await _context.Categories.ToListAsync();
         ViewBag.Categories = categories;
+        var brands = await _context.Brands.ToListAsync();
+        ViewBag.Brands = brands;
 
         if (!ModelState.IsValid)
             return View(vm);
@@ -90,6 +97,9 @@ public class ProductController : Controller
             Discount = vm.Discount,
             Tags = vm.Tags,
             RewardPoints = vm.RewardPoints,
+            BrandId=vm.BrandId,
+            ProductCode = vm.ProductCode,
+            Rating=vm.Rating,
         };
 
 
@@ -159,13 +169,19 @@ public class ProductController : Controller
             RewardPoints = product.RewardPoints,
             Tags = product.Tags,
             CategoryId = product.CategoryId,
+            BrandId= product.BrandId,   
             Description = product.Description,
+            ProductCode = product.ProductCode,
+            Rating= product.Rating,
+            
         };
 
 
 
         var categories = await _context.Categories.ToListAsync();
         ViewBag.Categories = categories;
+        var brands = await _context.Brands.ToListAsync();
+        ViewBag.Brands = brands;
 
         return View(vm);
 
@@ -177,6 +193,8 @@ public class ProductController : Controller
 
         var categories = await _context.Categories.ToListAsync();
         ViewBag.Categories = categories;
+        var brands = await _context.Brands.ToListAsync();
+        ViewBag.Brands = brands;
 
         if (!ModelState.IsValid)
             return View(vm);
@@ -241,7 +259,10 @@ public class ProductController : Controller
         existProduct.Discount = vm.Discount;
         existProduct.Tags = vm.Tags;
         existProduct.CategoryId = vm.CategoryId;
+        existProduct.BrandId = vm.BrandId;
         existProduct.Description = vm.Description;
+        existProduct.ProductCode = vm.ProductCode;
+        existProduct.Rating=vm.Rating;
 
 
         if (vm.MainImage is not null)

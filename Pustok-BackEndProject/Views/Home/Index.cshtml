@@ -134,7 +134,7 @@ Home Slider Tab
                                 <div class="product-card">
                                     <div class="product-header">
                                         <a href="#" class="author">
-                                            @product.Category.Name
+                                            @product.Brand.Name
                                         </a>
                                         <h3>
                                             <a asp-action="Detail" asp-controller="Shop"  asp-route-id="@product.Id">
@@ -150,7 +150,7 @@ Home Slider Tab
                                                     <img src="~/image/@product.ProductImages.FirstOrDefault(x=>x.IsHover)?.Url" alt="">
                                                 </a>
                                                 <div class="hover-btns">
-                                                    <a asp-controller="shop" asp-action="AddToBasket" asp-route-returnUrl="@Context.Request.Path.Value" asp-route-id="@product.Id" class="single-btn">
+                                                    <a asp-controller="shop" asp-action="AddToBasket"  asp-route-id="@product.Id" class="single-btn">
                                                         <i class="fas fa-shopping-basket"></i>
                                                     </a>
                                                     <a href="wishlist.html" class="single-btn">
@@ -200,7 +200,7 @@ Home Slider Tab
                                 <div class="product-card">
                                     <div class="product-header">
                                         <a href="#" class="author">
-                                            @product.Category.Name
+                                            @product.Brand.Name
                                         </a>
                                         <h3>
                                             <a asp-action="Detail" asp-controller="Shop" asp-route-id="@product.Id">
@@ -264,7 +264,7 @@ Home Slider Tab
                                 <div class="product-card">
                                     <div class="product-header">
                                         <a href="#" class="author">
-                                            @product.Category.Name
+                                            @product.Brand.Name
                                         </a>
                                         <h3>
                                             <a asp-action="Detail" asp-controller="Shop" asp-route-id="@product.Id">
@@ -337,7 +337,7 @@ Deal of the day
                     <div class="product-card">
                         <div class="product-header">
                             <a href="#" class="author">
-                                @product.Category.Name
+                                @product.Brand.Name
                             </a>
                             <h3>
                                 <a asp-action="Detail" asp-controller="Shop" asp-route-id="@product.Id">
@@ -609,7 +609,7 @@ CHILDREN’S BOOKS
                         <div class="product-card--body">
                             <div class="product-header">
                                 <a href="#" class="author">
-                                    @product.Category.Name
+                                    @product.Brand.Name
                                 </a>
                                 <h3>
                                     <a asp-action="Detail" asp-controller="Shop" asp-route-id="@product.Id">@product.Name</a>
